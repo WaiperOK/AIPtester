@@ -1,0 +1,15 @@
+{
+    "api_key": ",
+    "theme": "dark",
+    "api_keys": {
+        "Gemini": "",
+        "OpenAI": "",
+        "Grok": "",
+        "DeepSeek": "",
+        "Ollama-local": "",
+        "Claude": ""
+    },
+    "current_ai_provider": "Gemini",
+    "current_model": "gemini-2.5-flash",
+    "font_size": 10
+}
